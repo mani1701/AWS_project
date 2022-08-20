@@ -6,6 +6,7 @@ AWS Lambda and Amazon API Gateway.
 
 What's Here
 -----------
+test
 
 This sample includes:
 
@@ -17,6 +18,7 @@ This sample includes:
   by AWS CloudFormation to deploy your application to AWS Lambda and Amazon API
   Gateway.
 * tests/ - this directory contains unit tests for your application
+*
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 
 Getting Started
@@ -46,6 +48,7 @@ local computer. If you haven't, do that first. You can find instructions in the 
         $ sam local start-api -p 8080
 
 5. Open http://127.0.0.1:8080/ in a web browser to view your service.
+
 
 What Do I Do Next?
 ------------------
