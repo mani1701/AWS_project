@@ -21,6 +21,8 @@ This sample includes:
 *
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 
+Azure CICD
+
 Getting Started
 ---------------
 
